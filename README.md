@@ -1,6 +1,8 @@
 ## Cài đặt
-1. Chạy `docker-compose up`
-2. Truy cập http://localhost:8386
+1. git clone https://github.com/v13thun9/ctf_web.git
+2. cd ctf_web
+3. Chạy `docker-compose up`
+4. Truy cập http://localhost:8386
 
 ## Tác giả
 [v13thun9]
